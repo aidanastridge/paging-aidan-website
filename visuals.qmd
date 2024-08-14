@@ -1,0 +1,17 @@
+---
+title: "[Paging Aidan](index.qmd) {{< iconify fxemoji:hibiscus >}}"
+description: "{{< iconify mdi:location >}} Toronto
+
+
+
+
+[GitHub](https://github.com/aidanastridge) [LinkedIn](https://www.linkedin.com/in/aidanastridge/) [X](https://x.com/aidanastridge) [Email](mailto:astridgeaidan@gmail.com)  
+
+
+
+[Home](index.qmd) [Blog](blog.qmd) [Visuals](visuals.qmd) [Works](works.qmd)"
+---
+
+[funspotr](https://github.com/aidanastridge/tidytuesday-funspotr/blob/main/Rplot.png)   
+
+

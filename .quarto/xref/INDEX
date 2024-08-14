@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "dedf8ec2"
+  },
+  "about.qmd": {
+    "about.html": "94659fd6"
+  },
+  "tidytuesday.qmd": {
+    "tidytuesday.html": "7cee1ebd"
+  },
+  "academics.qmd": {
+    "academics.html": "f556074b"
+  },
+  "visualizations.qmd": {
+    "visualizations.html": "1612af28"
+  },
+  "visuals.qmd": {
+    "visuals.html": "d5a17d3f"
+  },
+  "works.qmd": {
+    "works.html": "3d8e2f48"
+  },
+  "blog.qmd": {
+    "blog.html": "df8e0e69"
+  }
+}

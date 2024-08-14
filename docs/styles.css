@@ -1,0 +1,13 @@
+/* css styles */
+.quarto-title a{
+    color: rgb(0, 0, 0);
+}
+
+.description a{
+    color: black;
+    text-decoration: underline !important;
+}
+
+a{
+    color: black;
+}

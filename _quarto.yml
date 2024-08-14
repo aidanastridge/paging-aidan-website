@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs
+website: 
+  favicon: favicon.ico
+  
+
+format:
+  html:
+    theme: minimal
+    css: styles.css
+    anchor-sections: false
+
+
+
