@@ -12,6 +12,7 @@ description: "{{< iconify mdi:location >}} Toronto
 [Home](index.qmd) [Blog](blog.qmd) [Visuals](visuals.qmd) [Works](works.qmd)"
 ---
 
-[funspotr](https://github.com/aidanastridge/tidytuesday-funspotr/blob/main/Rplot.png)   
+[funspotr](https://github.com/aidanastridge/tidytuesday-funspotr/blob/main/Rplot.png)  
+[worlds fairs](https://github.com/aidanastridge/worlds-fairs/blob/main/plot.jpg) 
 
 
