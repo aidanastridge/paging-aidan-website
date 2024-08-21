@@ -3,6 +3,7 @@ project:
   output-dir: docs
 website: 
   favicon: favicon.ico
+  google-analytics: G-4MZHFL4C12
   
 
 format:
