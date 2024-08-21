@@ -1,19 +1,35 @@
 /* css styles */
 .quarto-title a{
     color: rgb(0, 0, 0);
+    font-family: 'Fira Code', monospace;
+    font-weight: 10;
+    font-size: 18px;
+
 }
 
 .description a{
     color: black;
     text-decoration: underline !important;
+    font-family: 'Fira Code', monospace;
+    font-size: 16px;
 }
 
+.description{
+    font-size: 16px;
+    font-family: 'Fira Code', monospace;
+    color: black;
+}
 a{
     color: black;
+    font-family: 'Fira Code', monospace;
 }
 
 a:hover {
     background-color: black;
     color: white;
+}
 
+p{
+    font-family: 'Fira Code', monospace;
+    font-size: 16px;
 }

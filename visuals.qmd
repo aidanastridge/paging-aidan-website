@@ -1,6 +1,6 @@
 ---
-title: "[pagingAidan](index.qmd)  {{< iconify fxemoji:hibiscus >}}"
-description: "Toronto
+title: "[pagingAidan](index.qmd){{< iconify fxemoji:hibiscus size=10px >}}"
+description: "toronto
 
 
 [gitHub](https://github.com/aidanastridge) [linkedIn](https://www.linkedin.com/in/aidanastridge/) [x](https://x.com/aidanastridge) [email](mailto:astridgeaidan@gmail.com)   
@@ -10,6 +10,6 @@ description: "Toronto
 ---
 
 [funspotr](https://github.com/aidanastridge/tidytuesday-funspotr/blob/main/Rplot.png)  
-[worlds fairs](https://github.com/aidanastridge/worlds-fairs/blob/main/plot.jpg) 
+[worldsFairs](https://github.com/aidanastridge/worlds-fairs/blob/main/plot.jpg) 
 
 

@@ -1,6 +1,6 @@
 ---
-title: "[pagingAidan](index.qmd)  {{< iconify fxemoji:hibiscus >}}"
-description: "Toronto
+title: "[pagingAidan](index.qmd){{< iconify fxemoji:hibiscus size=10px >}}"
+description: "toronto
 
 
 [gitHub](https://github.com/aidanastridge) [linkedIn](https://www.linkedin.com/in/aidanastridge/) [x](https://x.com/aidanastridge) [email](mailto:astridgeaidan@gmail.com)   
@@ -9,4 +9,4 @@ description: "Toronto
 [home](index.qmd) [blog](blog.qmd) [visuals](visuals.qmd) [works](works.qmd)"
 ---
 
-[from-sas-to-python]()
+[fromSasToPython](https://github.com/aidanastridge/from-sas-to-python)
