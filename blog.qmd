@@ -9,6 +9,7 @@ description: "toronto
 [home](index.qmd) [blog](blog.qmd) [visuals](visuals.qmd) [works](works.qmd)"
 ---
 
+[It aint hard to tell date: 2024-08-21](it-aint-hard-to-tell.qmd)
 
 
 
