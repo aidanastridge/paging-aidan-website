@@ -9,7 +9,7 @@ description: "toronto
 [home](index.qmd) [blog](blog.qmd) [visuals](visuals.qmd) [works](works.qmd)"
 ---
 
-[funspotr](https://github.com/aidanastridge/tidytuesday-funspotr/blob/main/Rplot.png)  
-[worldsFairs](https://github.com/aidanastridge/worlds-fairs/blob/main/plot.jpg) 
+[funspotr date: 2024-08-21](https://x.com/aidanastridge/status/1824231743718646037/photo/1)  
+[worldsFairs date: 2024-08-21](https://x.com/aidanastridge/status/1824198955565011076/photo/1) 
 
 
